@@ -1,9 +1,3 @@
----
-tags: rails, asset pipeline, bootstrap
-language: ruby
-resources: 2
----
-
 # Rails Blog: Using the Asset Pipeline
 
 Our blog is basically fully functional, but looking a bit bland. Let's add a [free bootstrap theme](http://bootswatch.com/) to our app through the asset pipeline. Then, let's play around with Bootstrap's CSS classes and ids on our views to make it look nice.
