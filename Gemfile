@@ -35,17 +35,17 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'debugger', group: [:development, :test]
 
 group :test, :development do
-  gem "rspec-rails"
-  gem "capybara"
-  gem "selenium-webdriver"
-  gem "better_errors"
-  gem "binding_of_caller"
-  gem "factory_girl_rails"
-  gem "simplecov"
-  gem "database_cleaner"
-  gem "sqlite3"
-  gem "pry"
-  gem "rack_session_access"
+  gem "rspec-rails", '~> 3.3.3'
+  gem "capybara", '~> 2.5.0'
+  gem "selenium-webdriver", '~> 2.48.1'
+  gem "better_errors", '~> 2.1.1'
+  gem "binding_of_caller", '~> 0.7.2'
+  gem "factory_girl_rails", '~> 4.5.0'
+  gem "simplecov", '~> 0.10.0'
+  gem "database_cleaner", '~> 1.5.1'
+  gem "sqlite3", '~> 1.3.11'
+  gem "pry", '~> 0.10.3'
+  gem "rack_session_access", '~> 0.1.1'
 end
 
 group :production do
