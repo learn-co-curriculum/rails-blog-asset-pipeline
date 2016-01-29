@@ -17,4 +17,4 @@ If you run into any Segmentation Fault issues (most likely caused by the `bcrypt
 * [What is the Asset Pipeline](http://edgeguides.rubyonrails.org/asset_pipeline.html#what-is-the-asset-pipeline-questionmark)
 * [Asset Organization](http://edgeguides.rubyonrails.org/asset_pipeline.html#asset-organization)
 
-<a href='https://learn.co/lessons/rails-blog-asset-pipeline' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-blog-asset-pipeline' title='Rails Blog: Using the Asset Pipeline'>Rails Blog: Using the Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
